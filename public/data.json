@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "icon": "/design-tool.png",
+    "name": "Starter Portfolio Pack",
+    "description": "Premium portfolio templates collection designed specifically for budding developers.",
+    "price": 29.00,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["5+ Modern Templates", "Fully Responsive", "Clean Source Code"]
+  },
+  {
+    "id": 2,
+    "icon": "/operation.png",
+    "name": "Professional Web Suite",
+    "description": "A comprehensive set of premium tools for building high-converting business websites.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["100+ Premium Blocks", "SEO Optimization", "Priority 24/7 Support", "Free Custom Domain"]
+  },
+  {
+    "id": 3,
+    "icon": "/portfolio.png",
+    "name": "Ultimate SEO Booster",
+    "description": "All-in-one SEO package to skyrocket your website rankings and organic traffic.",
+    "price": 149.00,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Advanced Keyword Research", "Backlink Analysis Tool", "Weekly Performance Reports"]
+  },
+  {
+    "id": 4,
+    "icon": "/shopping-cart.png",
+    "name": "E-commerce Pro Kit",
+    "description": "Advanced customization tools for WooCommerce and Shopify storefronts.",
+    "price": 49.00,
+    "period": "monthly",
+    "tag": "Trending",
+    "tagType": "new",
+    "features": ["Custom Checkout Flow", "Smart Inventory Manager", "Multi-currency Support"]
+  },
+  {
+    "id": 5,
+    "icon": "/social-media.png",
+    "name": "Graphic Asset Bundle",
+    "description": "Unique icons, high-quality illustrations, and custom widgets for Elementor.",
+    "price": 75.00,
+    "period": "one-time",
+    "tag": "Limited",
+    "tagType": "best seller",
+    "features": ["500+ Premium SVG Icons", "High-Res Illustrations", "Commercial Usage License"]
+  },
+  {
+    "id": 6,
+    "icon": "/writing_2327400 1.png",
+    "name": "Cloud Storage Plus",
+    "description": "Secure and scalable cloud hosting to keep your project backups safe.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "Secure",
+    "tagType": "popular",
+    "features": ["500GB SSD Storage", "End-to-End Encryption", "Automatic Daily Backups"]
+  }
+]

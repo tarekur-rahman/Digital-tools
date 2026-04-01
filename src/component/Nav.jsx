@@ -6,7 +6,7 @@ const Nav = () => {
     return (
         <div className='shadow'>
 
-            <div className=' w-[80%] flex justify-between items-center md:w-[75%] mx-auto py-3 gap-4'>
+            <div className=' w-[80%] flex justify-between items-center lg:w-[75%] mx-auto py-3 gap-4'>
                      <div className=" logo text-2xl font-bold text-blue-800"><h2>DigiTools</h2></div>
 
                     <div className="menu sm:block hidden">
@@ -14,6 +14,7 @@ const Nav = () => {
                         <li>Products</li>
                         <li>Features</li>
                         <li>Pricing</li>
+                        <li>Testimonials</li>
                         <li>FAQ</li>
                     
                     </ul>
